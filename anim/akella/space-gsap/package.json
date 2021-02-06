@@ -57,7 +57,7 @@
     "webpack-bundle-analyzer": "^1.5.3"
   },
   "dependencies": {
-    "gsap": "^1.19.1",
+    "gsap": "^3.6.0",
     "split-html-to-chars": "^1.0.3"
   }
 }
