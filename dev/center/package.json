@@ -56,7 +56,7 @@
     "animate.css": "^3.5.2",
     "hamburgers": "^0.9.1",
     "include-media": "~1.4.9",
-    "jquery": "~2.2.4",
+    "jquery": "~3.5.1",
     "normalize.css": "~5.0.0",
     "slick": "^1.12.2",
     "slick-carousel": "^1.6.0",
